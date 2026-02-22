@@ -143,7 +143,7 @@ export default function Pengaturan({ wilayahId, onWilayahChange }: PengaturanPro
           <p className="text-gray-600 text-sm italic leading-relaxed">
             <span className="font-medium not-italic">Collaboration with</span> Alumni, DKM Masjid Al-Mu'awanah Bidang Kajian, Pendidikan, dan Intelektual, and IRMA SMAN 1 Langkaplancar
           </p>
-          <p className="text-gray-500 text-[10px] mt-2">Versi 2.2 • Publisher: Harapmoon Corp.</p>
+          <p className="text-gray-500 text-[10px] mt-2">Versi 2.5 • Terakhir Diupdate: 22 Feb 2026 (12:21) • Publisher: Harapmoon Corp.</p>
         </div>
       </div>
 
